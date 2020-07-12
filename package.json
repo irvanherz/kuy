@@ -1,0 +1,9 @@
+{
+  "name": "kuy",
+  "version": "0.0.1",
+  "description": "Kuy backend server",
+  "main": "index.js",
+  "repository": "https://github.com/irvanherz/kuy",
+  "author": "irvanherz",
+  "license": "MIT"
+}
